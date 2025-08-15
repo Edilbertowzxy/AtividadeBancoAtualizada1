@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\AtividadeBanco abistracao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D54ACB-C5FF-4F03-81C6-50F0768A9B32}|AtividadeBanco\\AtividadeBanco.csproj|c:\\users\\user\\desktop\\atividadebanco abistracao\\atividadebanco\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D54ACB-C5FF-4F03-81C6-50F0768A9B32}|AtividadeBanco\\AtividadeBanco.csproj|solutionrelative:atividadebanco\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D54ACB-C5FF-4F03-81C6-50F0768A9B32}|AtividadeBanco\\AtividadeBanco.csproj|c:\\users\\user\\desktop\\atividadebanco abistracao\\atividadebanco\\no.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D54ACB-C5FF-4F03-81C6-50F0768A9B32}|AtividadeBanco\\AtividadeBanco.csproj|solutionrelative:atividadebanco\\no.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D54ACB-C5FF-4F03-81C6-50F0768A9B32}|AtividadeBanco\\AtividadeBanco.csproj|c:\\users\\user\\desktop\\atividadebanco abistracao\\atividadebanco\\novaconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D54ACB-C5FF-4F03-81C6-50F0768A9B32}|AtividadeBanco\\AtividadeBanco.csproj|solutionrelative:atividadebanco\\novaconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D54ACB-C5FF-4F03-81C6-50F0768A9B32}|AtividadeBanco\\AtividadeBanco.csproj|c:\\users\\user\\desktop\\atividadebanco abistracao\\atividadebanco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D54ACB-C5FF-4F03-81C6-50F0768A9B32}|AtividadeBanco\\AtividadeBanco.csproj|solutionrelative:atividadebanco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D54ACB-C5FF-4F03-81C6-50F0768A9B32}|AtividadeBanco\\AtividadeBanco.csproj|c:\\users\\user\\desktop\\atividadebanco abistracao\\atividadebanco\\contanormal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D54ACB-C5FF-4F03-81C6-50F0768A9B32}|AtividadeBanco\\AtividadeBanco.csproj|solutionrelative:atividadebanco\\contanormal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D54ACB-C5FF-4F03-81C6-50F0768A9B32}|AtividadeBanco\\AtividadeBanco.csproj|c:\\users\\user\\desktop\\atividadebanco abistracao\\atividadebanco\\movimentacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D54ACB-C5FF-4F03-81C6-50F0768A9B32}|AtividadeBanco\\AtividadeBanco.csproj|solutionrelative:atividadebanco\\movimentacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D54ACB-C5FF-4F03-81C6-50F0768A9B32}|AtividadeBanco\\AtividadeBanco.csproj|c:\\users\\user\\desktop\\atividadebanco abistracao\\atividadebanco\\contaespecial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D54ACB-C5FF-4F03-81C6-50F0768A9B32}|AtividadeBanco\\AtividadeBanco.csproj|solutionrelative:atividadebanco\\contaespecial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "No.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\AtividadeBanco abistracao\\AtividadeBanco\\No.cs",
+              "RelativeDocumentMoniker": "AtividadeBanco\\No.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\AtividadeBanco abistracao\\AtividadeBanco\\No.cs",
+              "RelativeToolTip": "AtividadeBanco\\No.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAUwBIBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T13:22:44.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NovaConta.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\AtividadeBanco abistracao\\AtividadeBanco\\NovaConta.cs",
+              "RelativeDocumentMoniker": "AtividadeBanco\\NovaConta.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\AtividadeBanco abistracao\\AtividadeBanco\\NovaConta.cs",
+              "RelativeToolTip": "AtividadeBanco\\NovaConta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T13:12:10.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\AtividadeBanco abistracao\\AtividadeBanco\\Program.cs",
+              "RelativeDocumentMoniker": "AtividadeBanco\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\AtividadeBanco abistracao\\AtividadeBanco\\Program.cs",
+              "RelativeToolTip": "AtividadeBanco\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T14:27:41.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContaNormal.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\AtividadeBanco abistracao\\AtividadeBanco\\ContaNormal.cs",
+              "RelativeDocumentMoniker": "AtividadeBanco\\ContaNormal.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\AtividadeBanco abistracao\\AtividadeBanco\\ContaNormal.cs",
+              "RelativeToolTip": "AtividadeBanco\\ContaNormal.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T22:02:48.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Movimentacao.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\AtividadeBanco abistracao\\AtividadeBanco\\Movimentacao.cs",
+              "RelativeDocumentMoniker": "AtividadeBanco\\Movimentacao.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\AtividadeBanco abistracao\\AtividadeBanco\\Movimentacao.cs",
+              "RelativeToolTip": "AtividadeBanco\\Movimentacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T12:48:24.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContaBancaria.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\AtividadeBanco abistracao\\AtividadeBanco\\ContaBancaria.cs",
+              "RelativeDocumentMoniker": "AtividadeBanco\\ContaBancaria.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\AtividadeBanco abistracao\\AtividadeBanco\\ContaBancaria.cs",
+              "RelativeToolTip": "AtividadeBanco\\ContaBancaria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T11:19:44.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContaEspecial.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\AtividadeBanco abistracao\\AtividadeBanco\\ContaEspecial.cs",
+              "RelativeDocumentMoniker": "AtividadeBanco\\ContaEspecial.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\AtividadeBanco abistracao\\AtividadeBanco\\ContaEspecial.cs",
+              "RelativeToolTip": "AtividadeBanco\\ContaEspecial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T22:39:52.801Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

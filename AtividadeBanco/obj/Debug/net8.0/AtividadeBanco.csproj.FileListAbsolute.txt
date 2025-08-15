@@ -1,0 +1,49 @@
+C:\Users\USER\source\repos\AtividadeBanco\AtividadeBanco\obj\Debug\net8.0\AtividadeBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\AtividadeBanco\AtividadeBanco\obj\Debug\net8.0\AtividadeBanco.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\AtividadeBanco\AtividadeBanco\obj\Debug\net8.0\AtividadeBanco.AssemblyInfo.cs
+C:\Users\USER\source\repos\AtividadeBanco\AtividadeBanco\obj\Debug\net8.0\AtividadeBanco.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\AtividadeBanco\AtividadeBanco\bin\Debug\net8.0\AtividadeBanco.exe
+C:\Users\USER\source\repos\AtividadeBanco\AtividadeBanco\bin\Debug\net8.0\AtividadeBanco.deps.json
+C:\Users\USER\source\repos\AtividadeBanco\AtividadeBanco\bin\Debug\net8.0\AtividadeBanco.runtimeconfig.json
+C:\Users\USER\source\repos\AtividadeBanco\AtividadeBanco\bin\Debug\net8.0\AtividadeBanco.dll
+C:\Users\USER\source\repos\AtividadeBanco\AtividadeBanco\bin\Debug\net8.0\AtividadeBanco.pdb
+C:\Users\USER\source\repos\AtividadeBanco\AtividadeBanco\obj\Debug\net8.0\AtividadeBanco.dll
+C:\Users\USER\source\repos\AtividadeBanco\AtividadeBanco\obj\Debug\net8.0\refint\AtividadeBanco.dll
+C:\Users\USER\source\repos\AtividadeBanco\AtividadeBanco\obj\Debug\net8.0\AtividadeBanco.pdb
+C:\Users\USER\source\repos\AtividadeBanco\AtividadeBanco\obj\Debug\net8.0\AtividadeBanco.genruntimeconfig.cache
+C:\Users\USER\source\repos\AtividadeBanco\AtividadeBanco\obj\Debug\net8.0\ref\AtividadeBanco.dll
+C:\Users\edilb\OneDrive\Desktop\AtividadeBanco\AtividadeBanco\bin\Debug\net8.0\AtividadeBanco.exe
+C:\Users\edilb\OneDrive\Desktop\AtividadeBanco\AtividadeBanco\bin\Debug\net8.0\AtividadeBanco.deps.json
+C:\Users\edilb\OneDrive\Desktop\AtividadeBanco\AtividadeBanco\bin\Debug\net8.0\AtividadeBanco.runtimeconfig.json
+C:\Users\edilb\OneDrive\Desktop\AtividadeBanco\AtividadeBanco\bin\Debug\net8.0\AtividadeBanco.dll
+C:\Users\edilb\OneDrive\Desktop\AtividadeBanco\AtividadeBanco\bin\Debug\net8.0\AtividadeBanco.pdb
+C:\Users\edilb\OneDrive\Desktop\AtividadeBanco\AtividadeBanco\obj\Debug\net8.0\AtividadeBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edilb\OneDrive\Desktop\AtividadeBanco\AtividadeBanco\obj\Debug\net8.0\AtividadeBanco.AssemblyInfoInputs.cache
+C:\Users\edilb\OneDrive\Desktop\AtividadeBanco\AtividadeBanco\obj\Debug\net8.0\AtividadeBanco.AssemblyInfo.cs
+C:\Users\edilb\OneDrive\Desktop\AtividadeBanco\AtividadeBanco\obj\Debug\net8.0\AtividadeBanco.csproj.CoreCompileInputs.cache
+C:\Users\edilb\OneDrive\Desktop\AtividadeBanco\AtividadeBanco\obj\Debug\net8.0\AtividadeBanco.dll
+C:\Users\edilb\OneDrive\Desktop\AtividadeBanco\AtividadeBanco\obj\Debug\net8.0\refint\AtividadeBanco.dll
+C:\Users\edilb\OneDrive\Desktop\AtividadeBanco\AtividadeBanco\obj\Debug\net8.0\AtividadeBanco.pdb
+C:\Users\edilb\OneDrive\Desktop\AtividadeBanco\AtividadeBanco\obj\Debug\net8.0\AtividadeBanco.genruntimeconfig.cache
+C:\Users\edilb\OneDrive\Desktop\AtividadeBanco\AtividadeBanco\obj\Debug\net8.0\ref\AtividadeBanco.dll
+F:\AtividadeBanco abistracao\AtividadeBanco\obj\Debug\net8.0\AtividadeBanco.GeneratedMSBuildEditorConfig.editorconfig
+F:\AtividadeBanco abistracao\AtividadeBanco\obj\Debug\net8.0\AtividadeBanco.AssemblyInfoInputs.cache
+F:\AtividadeBanco abistracao\AtividadeBanco\obj\Debug\net8.0\AtividadeBanco.AssemblyInfo.cs
+F:\AtividadeBanco abistracao\AtividadeBanco\obj\Debug\net8.0\AtividadeBanco.csproj.CoreCompileInputs.cache
+F:\AtividadeBanco abistracao\AtividadeBanco\obj\Debug\net8.0\AtividadeBanco.dll
+F:\AtividadeBanco abistracao\AtividadeBanco\obj\Debug\net8.0\refint\AtividadeBanco.dll
+F:\AtividadeBanco abistracao\AtividadeBanco\obj\Debug\net8.0\AtividadeBanco.pdb
+C:\Users\USER\Desktop\AtividadeBanco abistracao\AtividadeBanco\obj\Debug\net8.0\AtividadeBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\AtividadeBanco abistracao\AtividadeBanco\obj\Debug\net8.0\AtividadeBanco.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\AtividadeBanco abistracao\AtividadeBanco\obj\Debug\net8.0\AtividadeBanco.AssemblyInfo.cs
+C:\Users\USER\Desktop\AtividadeBanco abistracao\AtividadeBanco\obj\Debug\net8.0\AtividadeBanco.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\AtividadeBanco abistracao\AtividadeBanco\obj\Debug\net8.0\AtividadeBanco.dll
+C:\Users\USER\Desktop\AtividadeBanco abistracao\AtividadeBanco\obj\Debug\net8.0\refint\AtividadeBanco.dll
+C:\Users\USER\Desktop\AtividadeBanco abistracao\AtividadeBanco\obj\Debug\net8.0\AtividadeBanco.pdb
+C:\Users\USER\Desktop\AtividadeBanco abistracao\AtividadeBanco\bin\Debug\net8.0\AtividadeBanco.exe
+C:\Users\USER\Desktop\AtividadeBanco abistracao\AtividadeBanco\bin\Debug\net8.0\AtividadeBanco.deps.json
+C:\Users\USER\Desktop\AtividadeBanco abistracao\AtividadeBanco\bin\Debug\net8.0\AtividadeBanco.runtimeconfig.json
+C:\Users\USER\Desktop\AtividadeBanco abistracao\AtividadeBanco\bin\Debug\net8.0\AtividadeBanco.dll
+C:\Users\USER\Desktop\AtividadeBanco abistracao\AtividadeBanco\bin\Debug\net8.0\AtividadeBanco.pdb
+C:\Users\USER\Desktop\AtividadeBanco abistracao\AtividadeBanco\obj\Debug\net8.0\AtividadeBanco.genruntimeconfig.cache
+C:\Users\USER\Desktop\AtividadeBanco abistracao\AtividadeBanco\obj\Debug\net8.0\ref\AtividadeBanco.dll
